@@ -26,7 +26,7 @@ To start, you'll want to clone and run the setup script for the repo
     cd regular-expressions-repeating-patterns
     bin/setup
 
-After running `bin/setup`, edit `lib/regexes_repeating.rb` and fill in the correct regex to make the tests pass.
+After running `bin/setup`, edit `lib/repeating_regexes.rb` and fill in the correct regex to make the tests pass.
 
 To run the tests, run `rake`. Try reading the test failures one at a time, and fixing each one in order.
 
